@@ -1,0 +1,28 @@
+https://www.stratoscale.com/
+
+
+
+Empower developers with AWS-compatible infrastructure and services for running and scaling cloud-native applications in enterprise environments.
+
+
+
+Symphony is the Stratoscale private cloud stack. Symphony gives you the ability to create an AWS-compatible on-prem private or public cloud within your own datacenter and on your own hardware.
+
+At a high level:
+
+A Symphony system starts with four or more bare metal servers, connected by Ethernet to one or more switches. These servers can be from any manufacturer, as long as they meet certain basic requirements.
+
+You then install Stratoscale software on each server, so that each server becomes a node in a Symphony private cloud region. The Symphony software includes an operating system and a hypervisor, as well as other Symphony-specific features. You do not need to lay down an operating system and then install Symphony on top of it -- Symphony gives you all you need to put on top of the hardware of your choice.
+
+
+
+
+Deployment guide:
+
+https://knowledge1.stratoscale.com/display/SYMP/Deployment+and+Installation 
+
+ 
+
+Existing AWS API Documentation:
+
+https://knowledge1.stratoscale.com/display/SYMP/Supported+AWS+APIs 
